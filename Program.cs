@@ -18,6 +18,7 @@ namespace Licao_1
             Console.WriteLine("A soma e: " + soma);
             Console.WriteLine();
             Console.WriteLine("---------------------------------------------");
+            Console.WriteLine();
         }
     }
 }
